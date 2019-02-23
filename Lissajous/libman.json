@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "p5.js@0.7.2",
+      "destination": "Scripts/p5.js/"
+    },
+    {
+      "library": "dat-gui@0.7.3",
+      "destination": "Scripts/dat-gui/"
+    }
+  ]
+}
